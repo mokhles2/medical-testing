@@ -58,7 +58,7 @@
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <img src="{{asset('front/logo.jpg')}}" style="height: 450px;width:850px" alt="">
                 </div>
-                <h2 style="color:#0a1056">Ali Mohammed Al Mokhles</h2>
+                <h2 style="color:#0a1056">Ali Mohmmed Al Yami</h2>
                 
                 
 
