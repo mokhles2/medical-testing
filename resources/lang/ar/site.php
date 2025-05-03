@@ -1,12 +1,12 @@
 <?php
 return [
 
- 'dashboard' => 'لوحة التحكم',
+ //'dashboard' => 'لوحة التحكم',
 
- 'home' => ' الصفحة الرئيسية',
+ //'home' => ' الصفحة الرئيسية',
 
- 'branches' => 'المدن' ,
-'all-branches' => 'كل المدن',
+ //'branches' => 'المدن' ,
+//'all-branches' => 'كل المدن',
 'add-branch' => 'اضافة مدينة',
 'name' => 'الاسم',
 'procces' => 'العمليات',
